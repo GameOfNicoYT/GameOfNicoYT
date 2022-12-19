@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GameOfNicoYT
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Node.js and Discord.js
-- 📫 You can reach me per mail at info@nicoproyer.at or if you have discord questions you can reach me at admin@atomized-gaming.net
+- 🌱 I’m currently learning Python and C
+- 📫 You can reach me via mail at info@nicoproyer.at or you can DM me on Discord @GameOfNicoYT#0420
